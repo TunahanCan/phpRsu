@@ -1,0 +1,10 @@
+#navHead{
+	text-align: center;
+	font-weight: bold;
+}
+#icerik table a,span{
+	font-weight: normal;
+}
+.beyazFon{
+	bacground-color:#fff;
+}
